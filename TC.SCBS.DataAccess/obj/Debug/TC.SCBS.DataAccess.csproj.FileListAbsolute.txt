@@ -1,0 +1,16 @@
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\TC.SCBS.DataAccess.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\TC.SCBS.DataAccess.pdb
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\TC.SCBS.DTO.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\TC.SCBS.DTO.pdb
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\obj\Debug\TC.SCBS.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\obj\Debug\TC.SCBS.DataAccess.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\obj\Debug\TC.SCBS.DataAccess.pdb
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\FluentValidation.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\FluentValidation.xml
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\TC.SCBS.DataAccess.dll.config
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\TC.SCBS.Entities.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\TC.SCBS.Entities.pdb
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.DataAccess\bin\Debug\EntityFramework.SqlServer.xml

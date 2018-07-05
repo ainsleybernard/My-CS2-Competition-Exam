@@ -1,0 +1,10 @@
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\bin\Debug\TC.SCBS.Entities.dll.config
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\bin\Debug\TC.SCBS.Entities.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\bin\Debug\TC.SCBS.Entities.pdb
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\bin\Debug\EntityFramework.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\bin\Debug\EntityFramework.xml
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\obj\Debug\TC.SCBS.Entities.csprojResolveAssemblyReference.cache
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\obj\Debug\TC.SCBS.Entities.dll
+c:\users\bernara\documents\visual studio 2015\Projects\TC.ServiceCenterBookingSystem\TC.SCBS.Entities\obj\Debug\TC.SCBS.Entities.pdb
